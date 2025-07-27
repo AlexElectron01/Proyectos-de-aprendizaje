@@ -1,2 +1,2 @@
 # Proyectos-de-aprendizaje
-Codigo de evasor de obstáculos y seguidor de linea
+Codigos utilizados para los proyectos de robotica y electronica subidos a redes sociales de Electron tech.
